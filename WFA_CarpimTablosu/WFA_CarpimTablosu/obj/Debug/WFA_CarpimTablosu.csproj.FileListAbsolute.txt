@@ -1,0 +1,11 @@
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\bin\Debug\WFA_CarpimTablosu.exe.config
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\bin\Debug\WFA_CarpimTablosu.exe
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\bin\Debug\WFA_CarpimTablosu.pdb
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.Form1.resources
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.exe
+C:\Users\Sıla Şirin\Desktop\WFA_CarpimTablosu\WFA_CarpimTablosu\obj\Debug\WFA_CarpimTablosu.pdb

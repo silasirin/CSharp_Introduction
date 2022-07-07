@@ -1,0 +1,24 @@
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\bin\Debug\WFA_RuntimeOdev.exe.config
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\bin\Debug\WFA_RuntimeOdev.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\bin\Debug\WFA_RuntimeOdev.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.Form1.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.Form2.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.Form1.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.Form2.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\obj\Debug\WFA_RuntimeOdev.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\bin\Debug\WFA_RuntimeOdev.exe.config
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\bin\Debug\WFA_RuntimeOdev.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WFA_RuntimeOdev\WFA_RuntimeOdev\bin\Debug\WFA_RuntimeOdev.pdb

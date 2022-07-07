@@ -1,0 +1,21 @@
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.exe.config
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.exe
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.pdb
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.AssemblyReference.cache
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.Form1.resources
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.Properties.Resources.resources
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.GenerateResource.cache
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.exe
+C:\Users\sila.sirin\Desktop\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.exe.config
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\bin\Debug\WFA_AtYarisi.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.Form1.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_AtYarisi\WFA_AtYarisi\obj\Debug\WFA_AtYarisi.pdb

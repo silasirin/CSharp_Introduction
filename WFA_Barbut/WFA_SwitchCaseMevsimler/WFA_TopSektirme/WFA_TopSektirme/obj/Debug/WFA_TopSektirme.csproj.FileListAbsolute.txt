@@ -1,0 +1,10 @@
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe.config
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.pdb
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.AssemblyReference.cache
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Form1.resources
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Properties.Resources.resources
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.GenerateResource.cache
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.CoreCompileInputs.cache
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.exe
+C:\Users\sila.sirin\Desktop\s\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.pdb

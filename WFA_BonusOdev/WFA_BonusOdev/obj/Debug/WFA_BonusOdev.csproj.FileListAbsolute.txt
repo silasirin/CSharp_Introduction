@@ -1,0 +1,21 @@
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.exe.config
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.exe
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.pdb
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.Form1.resources
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.exe
+C:\Users\Sıla Şirin\Desktop\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.pdb
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.exe.config
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.exe
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\bin\Debug\WFA_BonusOdev.pdb
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.AssemblyReference.cache
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.Form1.resources
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.Properties.Resources.resources
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.GenerateResource.cache
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.csproj.CoreCompileInputs.cache
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.exe
+D:\.NET\WFA\WFA_BonusOdev\WFA_BonusOdev\obj\Debug\WFA_BonusOdev.pdb

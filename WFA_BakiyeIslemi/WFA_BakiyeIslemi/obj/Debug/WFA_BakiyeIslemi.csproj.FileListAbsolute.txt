@@ -1,0 +1,41 @@
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe.config
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.AssemblyReference.cache
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Form1.resources
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Properties.Resources.resources
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.GenerateResource.cache
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.exe
+C:\Users\sila.sirin\Desktop\s\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Form1.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe.config
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\WINDOWS FORM\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.pdb
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe.config
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.pdb
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.AssemblyReference.cache
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Form1.resources
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Properties.Resources.resources
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.GenerateResource.cache
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.exe
+D:\.NET\WFA\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.AssemblyReference.cache
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Form1.resources
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.Properties.Resources.resources
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.GenerateResource.cache
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.csproj.CoreCompileInputs.cache
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.exe
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\obj\Debug\WFA_BakiyeIslemi.pdb
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe.config
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.exe
+C:\Users\sila.sirin\Desktop\s\c#\Windows Form Application\WFA_BakiyeIslemi\WFA_BakiyeIslemi\bin\Debug\WFA_BakiyeIslemi.pdb

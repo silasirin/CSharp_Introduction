@@ -1,0 +1,10 @@
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\bin\Debug\WFA_AracKayitFormu.exe.config
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\bin\Debug\WFA_AracKayitFormu.exe
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\bin\Debug\WFA_AracKayitFormu.pdb
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\obj\Debug\WFA_AracKayitFormu.csproj.AssemblyReference.cache
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\obj\Debug\WFA_AracKayitFormu.Form1.resources
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\obj\Debug\WFA_AracKayitFormu.Properties.Resources.resources
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\obj\Debug\WFA_AracKayitFormu.csproj.GenerateResource.cache
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\obj\Debug\WFA_AracKayitFormu.csproj.CoreCompileInputs.cache
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\obj\Debug\WFA_AracKayitFormu.exe
+C:\Users\sila.sirin\Desktop\WFA_AracKayitFormu\WFA_AracKayitFormu\obj\Debug\WFA_AracKayitFormu.pdb

@@ -1,0 +1,10 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.01\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.pdb

@@ -1,0 +1,10 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\bin\Debug\WFA_AbstractProduct.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\bin\Debug\WFA_AbstractProduct.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\bin\Debug\WFA_AbstractProduct.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\04.04\WFA_Abstraction\WFA_AbstractProduct\obj\Debug\WFA_AbstractProduct.pdb

@@ -1,0 +1,16 @@
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\bin\Debug\WFA_WowDbFirst.exe.config
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\bin\Debug\WFA_WowDbFirst.exe
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\bin\Debug\WFA_WowDbFirst.pdb
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\bin\Debug\EntityFramework.dll
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\bin\Debug\EntityFramework.xml
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.Form1.resources
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.csproj.CopyComplete
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.exe
+C:\Users\Sıla Şirin\Desktop\WFA_WowDbFirst\WFA_WowDbFirst\obj\Debug\WFA_WowDbFirst.pdb
